@@ -13,4 +13,6 @@ You are welcome to use, modify, and share my description of the incident respons
 ## I have feedback!
 Leaders may describe this concept in different ways depending on their experiences and the needs of their business. This version is based on my experience building incident response capabilities in Office 365, with feedback from the infosec community on Twitter.
 
-If you have suggestions or feedback, I would love to hear from you! You can find me on [Twitter](https://twitter.com/MSwannMSFT) and [LinkedIn](https://linkedin.com/in/swannman).
+If you have suggestions or feedback, I would love to hear from you! You can find Matt Swann on [Twitter](https://twitter.com/MSwannMSFT) and [LinkedIn](https://linkedin.com/in/swannman).
+
+The German Translation was created by Tim Philipp Schäfers (Founder and CEO of Mint Secure).
