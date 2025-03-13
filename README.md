@@ -15,4 +15,4 @@ Leaders may describe this concept in different ways depending on their experienc
 
 If you have suggestions or feedback, I would love to hear from you! You can find Matt Swann on [Twitter](https://twitter.com/MSwannMSFT) and [LinkedIn](https://linkedin.com/in/swannman).
 
-The German Translation was created by Tim Philipp Schäfers (Founder and CEO of Mint Secure).
+The German Translation was created by Tim Philipp Schäfers (Founder and CEO of Mint Secure). Für Feedback (zur Übersetzung oder Austausch) kann auch hier Kontakt aufgenommen werden: [Mint Secure - Kontakt]([https://linkedin.com/in/swannman](https://mint-secure.de/kontakt/)).
